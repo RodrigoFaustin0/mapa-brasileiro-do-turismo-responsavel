@@ -1,6 +1,4 @@
-# Mapa Brasileiro do Turismo Responsável
-
-## Mapa Brasileiro do Turismo Responsável - IMD/UFRN/MDR <h5>
+# Mapa Brasileiro do Turismo Responsável - IMD/UFRN/MDR
 
 Desenvolvedor BI do painel.
 
