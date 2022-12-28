@@ -3,4 +3,4 @@
 Mapa Brasileiro do Turismo Responsável - IMD/UFRN/MDR
 
 Link de acesso:
-[mapadoturismoresponsavel.turismo.gov.br](mapadoturismoresponsavel.turismo.gov.br)
+<mapadoturismoresponsavel.turismo.gov.br>
